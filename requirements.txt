@@ -1,8 +1,0 @@
-Flask
-Flask-SQLAlchemy
-Flask-SocketIO
-Pillow
-python-dotenv
-gunicorn
-gevent
-gevent-websocket
